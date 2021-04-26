@@ -26,7 +26,6 @@
 .Button:not(:disabled):hover {
   background-color: black;
   color: white;
-  border-radius: 1px solid grey;
 }
 
 .Success {
